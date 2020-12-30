@@ -1,0 +1,22 @@
+person:
+  birth: 2019/12/9
+  interests:
+    - basketball
+    - football
+    - 羽毛球
+  animal: [猫,狗,老虎]
+  score:
+    English: 80
+    Math: 90
+  salarys: [100.12,5410,24]
+  pet:
+    name: 小黄
+    weight: 45
+  allPets:
+    sick:
+      - { name: tom }
+      - { name: jerry,weight: 47 }
+    health: [ { name: mario,weight: 47 } ]
+  boss: false
+  age: 15
+  user-name: kobe

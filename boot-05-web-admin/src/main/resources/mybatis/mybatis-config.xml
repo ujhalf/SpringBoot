@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--添加mybatis文档类型定义-->
+<!--文档类型定义（DTD）可定义合法的XML文档构建模块。它使用一系列合法的元素来定义文档的结构。-->
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<!--mybatis主配置文件-->
+<!--所有的配置都在<configuration/>标签中进行配置-->
+<configuration>
+
+    <properties>
+        <property name="mapUnderscoreToCamelCase" value="true"/>
+    </properties>
+</configuration>
